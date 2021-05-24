@@ -13,17 +13,11 @@ Software: Javascript, Bootstrap, VS Code, Leaflet, D3.js
 
 ## Interactive Maps 
 
-<p align="center">
-    ![streets](https://user-images.githubusercontent.com/45697471/119289837-5c14bf80-bc19-11eb-8b59-df448e40acf6.png)
-    Streets view
-</p>
-<br>
-<p align="center">
-    ![satellite](https://user-images.githubusercontent.com/45697471/119289914-8bc3c780-bc19-11eb-8cce-b044e66d9cc3.png)
-    Satellite view
-</p>
-<br>
-<p align="center">
-    ![satellite](https://user-images.githubusercontent.com/45697471/119290019-bdd52980-bc19-11eb-950f-a8ceabdd0268.png)
-    Dark view
-</p>
+![streets](https://user-images.githubusercontent.com/45697471/119290079-dc3b2500-bc19-11eb-8720-88a7723ce1eb.png)
+Streets View 
+
+![satellite](https://user-images.githubusercontent.com/45697471/119290122-eceb9b00-bc19-11eb-94d2-a0bb6d6caaa2.png)
+Satellite View 
+
+![dark](https://user-images.githubusercontent.com/45697471/119290132-f248e580-bc19-11eb-8f48-d1cab84f0594.png)
+Dark View 
